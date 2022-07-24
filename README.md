@@ -1,7 +1,7 @@
 - Hello fools, I’m @Adel-Yha
-- Currently an amateur at programming, and only knows C++
-- Still learning Python
-- I could collaborate on any C++ related projects and soon, even Python after I have learnt it
+- Currently an amateur at programming, and only knows Python
+- Learning C
+- I could collaborate on any Python related projects and soon, even C after I have learnt it
 - If you want to reach me, then contact me at my discord, Adeel yuda#9348
 
 <!---
